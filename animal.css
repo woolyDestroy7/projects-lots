@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #000;
+}
+
+h1{
+    color: #fff;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+
+h2{
+    color: #fff;
+    font-size: 40px;
+    font-family: Futura;
+}
+
+img{
+    width: 560px;
+    height: 350px;
+    float: right;
+}
+
+a{
+    color: #00ffff;
+}
+
+a:hover{
+    color: brown;
+}
